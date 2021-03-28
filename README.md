@@ -1,5 +1,7 @@
 Vuoi una soluzione hotspot completa e dare internet ai tuoi amici, vicini di casa o estranei?Con questo progetto hai tutto quel che stai cercando, una soluzione completa, efficace e funzionante al 100%.
 
+APPENA SCARICATO ANDARE NELLA ROOT DEL CLONE E DIGITARE IN UNA FINESTRA DI COMANDO PUNTATA SULLA DIRECTORY: composer require evilfreelancer/routeros-api-php
+
 Il progetto è stato creato in PHP e integrato con le API di Mikrotik trovate sempre su Github.
 Funzionamento del sistema:
 1. Un utente accede al vostro WiFi e gli verranno richieste le credenziali per accedere, oppure in alto può scegliere la prova gratuita di quanti minuti volete voi sempre in base alla configurazione del router (profili)
